@@ -1,0 +1,3 @@
+D:/UBB/Semester 2/SDA/Set-Lab2/cmake-build-debug/CMakeFiles/Set.dir
+D:/UBB/Semester 2/SDA/Set-Lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/UBB/Semester 2/SDA/Set-Lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
